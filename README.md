@@ -1,1 +1,1 @@
-# CISC 5325 Databases
+# CISC 5325 Databases Assignments & Projects
