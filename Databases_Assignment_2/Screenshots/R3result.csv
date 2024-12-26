@@ -1,0 +1,8 @@
+"section.course_id","section.sec_id","section.semester","section.year","teaches.ID","instructor.name","course.credits"
+"BIO-101","1","Summer","2009","76766","Crick","4"
+"BIO-301","1","Summer","2010","76766","Crick","4"
+"CS-101","1","Fall","2009","10101","Srinivasan","4"
+"CS-101","1","Spring","2010","45565","Katz","4"
+"CS-190","1","Spring","2009","83821","Brandt","4"
+"CS-190","2","Spring","2009","83821","Brandt","4"
+"PHY-101","1","Fall","2009","22222","Einstein","4"

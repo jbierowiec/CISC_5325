@@ -1,0 +1,1 @@
+π section.course_id, section.sec_id, section.semester, section.year, teaches.ID, instructor.name, course.credits (σ credits≥4((section⨝teaches)⨝instructor⨝course))

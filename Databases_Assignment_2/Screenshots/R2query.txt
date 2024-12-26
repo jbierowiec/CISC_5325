@@ -1,0 +1,1 @@
+π section.course_id, section.sec_id, section.semester, section.year, section.building, section.room_number, classroom.capacity(σ semester='Fall' ∧ capacity>50(section⨝section.building = classroom.building ∧ section.room_number = classroom.room_number classroom)) 
