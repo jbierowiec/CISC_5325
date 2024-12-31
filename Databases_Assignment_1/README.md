@@ -35,8 +35,6 @@ This repository contains files and instructions for Assignment 1 of Databases. T
    - Download and configure to connect with the local MySQL server.
    - Install and verify databases using SQL scripts provided.
 
----
-
 ## Assignment Questions
 
 The assignment covers the following topics:
