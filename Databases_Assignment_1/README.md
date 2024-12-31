@@ -68,5 +68,5 @@ The assignment covers the following topics:
 
 ## How to Use the Files
 
-1. Open the assignment1_settled.pdf file to review and attempt the theoretical and relational algebra questions.
-2. Use the assignment1_coding_settled.ipynb Jupyter Notebook to setup and verify environment setup.
+1. Open the `assignment1_settled.pdf` file to review and attempt the theoretical and relational algebra questions.
+2. Use the `assignment1_coding_settled.ipynb` Jupyter Notebook to setup and verify environment setup.
