@@ -65,3 +65,8 @@ The assignment covers the following topics:
 
 9. **Environment Setup Verification**
    - Screenshots of successful tool configurations to be included in the submission.
+
+## How to Use the Files
+
+1. Open the assignment1_settled.pdf file to review and attempt the theoretical and relational algebra questions.
+2. Use the assignment1_coding_settled.ipynb Jupyter Notebook to setup and verify environment setup.
