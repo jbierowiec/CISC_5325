@@ -1,4 +1,4 @@
-# Assignment 1 - Environment Setup and Assignment Details
+# Assignment 1 - Environment Setup & Database Questions
 
 This repository contains files and instructions for Assignment 1 of Databases. The homework is divided into two main sections, those being, environment setup and assignment questions. The environment setup ensures that all required tools are properly installed and configured, while the assignment questions focus on theoretical and practical database concepts.
 
