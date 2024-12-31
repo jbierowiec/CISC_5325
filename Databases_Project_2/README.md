@@ -1,4 +1,4 @@
-# Project 1 - Data Analysis
+# Project 1 - Data Analysis & Concurrency Control
 
 This project builds upon previous data analysis tasks using Python in a Jupyter Notebook environment. It involves data manipulation, cleaning, and visualization techniques to a `classic models` dataset.
 
